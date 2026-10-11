@@ -1,4 +1,7 @@
 venv/
 __pycache__/
 results.json
-
+explore.py
+explore2.py
+test_patterns.py
+results.json
